@@ -31,4 +31,4 @@ User Input Handling (Scanner class)
 Conditional Statements (if-else for transaction validation)
 Loops (To allow multiple transactions in one session)
 
-*OUTPUT*:
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/c0f79719-8f20-48fb-8ac5-626ff8707818)

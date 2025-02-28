@@ -15,4 +15,4 @@ Create an ATM Machine Class with options for withdrawing, depositing, and checki
 
 Java Classes & Objects (Encapsulation for ATM & Account) Methods (To implement deposit, withdrawal, and balance check) User Input Handling (Scanner class) Conditional Statements (if-else for transaction validation) Loops (To allow multiple transactions in one session)
 
-OUTPUT:
+OUTPUT:eclipse-workspace - C__Users_dudhe_OneDrive_Desktop_Java_EvenOdd.java - Eclipse IDE 2_28_2025 9_10_19 PM.png
